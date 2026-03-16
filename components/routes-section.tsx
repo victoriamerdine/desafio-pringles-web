@@ -8,22 +8,22 @@ const routes = [
   { 
     distance: "1.5 km", 
     color: "bg-secondary",
-    iframeSrc: "https://connect.garmin.com/app/course/embed/436187580"
+    iframeSrc: "https://connect.garmin.com/modern/course/436187580"
   },
   { 
     distance: "3 km", 
     color: "bg-primary",
-    iframeSrc: "https://connect.garmin.com/app/course/embed/436186189"
+    iframeSrc: "https://connect.garmin.com/modern/course/436186189"
   },
   { 
     distance: "5 km", 
     color: "bg-accent",
-    iframeSrc: "https://connect.garmin.com/app/course/embed/429241293"
+    iframeSrc: "https://connect.garmin.com/modern/course/429241293"
   },
   { 
     distance: "10 km", 
     color: "bg-destructive",
-    iframeSrc: "https://connect.garmin.com/app/course/embed/429204323"
+    iframeSrc: "https://connect.garmin.com/app/course/embed/439569406"
   },
 ]
 
